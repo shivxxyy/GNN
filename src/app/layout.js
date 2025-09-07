@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'GNN',
+  title: 'bullshit.ai',
   description: 'Turn real news into viral memes with AI-powered satirical headlines',
 }
 

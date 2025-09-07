@@ -151,7 +151,7 @@ export default function HomePage() {
               <Zap className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold gradient-text">GNN</h1>
+              <h1 className="text-xl font-bold gradient-text">bullshit.ai</h1>
               <p className="text-xs text-gray-400">
                 Real News, Fake Seriousness
               </p>
@@ -293,7 +293,7 @@ export default function HomePage() {
       <footer className="glass-effect border-t border-white/10 px-4 py-8 mt-12">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-gray-400 mb-4">
-            GNN - Where serious news meets unserious people
+            bullshit.ai - Where serious news meets unserious people
           </p>
           <div className="flex justify-center space-x-6 text-sm text-gray-500">
             <a href="#" className="hover:text-purple-400 transition-colors">
